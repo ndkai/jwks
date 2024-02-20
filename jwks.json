@@ -1,6 +1,4 @@
 {
-  "alg": "HS256",
-  "typ": "JWT",
   "keys": [
     {
       "p": "_HEwKa8A1FbAz8Ad5D4VYJgzmtoh10TBF2yiPLc7eBx6Zt2Zi6pzZZkRC5wUQLRfRKTXPglJLywX4jultHQqNiaBz8hwjoQ5hKdkc2XYAFcAuO0dZH0BRv2CHmhVznAR2ddfTt7ur66ZLMNUEKcnyYrfk-hlRs7aoLgR3jiljIk",
