@@ -1,18 +1,4 @@
 {
-  "keys": [
-    {
-      "p": "_HEwKa8A1FbAz8Ad5D4VYJgzmtoh10TBF2yiPLc7eBx6Zt2Zi6pzZZkRC5wUQLRfRKTXPglJLywX4jultHQqNiaBz8hwjoQ5hKdkc2XYAFcAuO0dZH0BRv2CHmhVznAR2ddfTt7ur66ZLMNUEKcnyYrfk-hlRs7aoLgR3jiljIk",
-      "kty": "RSA",
-      "q": "zSRRxC8IDHtDp1L_zH_2-t1gt0a4n5_eJp7x3VdNHn-OKFtYyNbk-S-6wQcd84sXN90o54rn0uTJmpjdoLz6UgObyGbmJEvwFkzMew8CEGAiWZnECeLqcoxwPaW-aRamDmNkcBYm3kDlDh-KElX_LM4bP1VPCpZU2TuQ3ZGSTk0",
-      "d": "PD4R-FUvj_B7A3kcqCyh7PJz_jGlbhUxhb7AcVQAjVqsR6rA0hPo2xXYUD6OkO5-Qp62N3wBd4cLIQmOyRpi6wzZYJ9nJDRoT3xPUs5Gl5rxYvq6LtKkLd1dp9wJ4M7kLK_W_hpUPPbss-CdxzueMKrsRKd3bGBH9tLDr1fqILhpTWhfVmEEZ9ebqkRAPf9lBMMOB70oF9chCT1rpa2aReCHGBap0lTMTwzSKO8rIK6fMWa96Os2noZ5SA0PU0xFXIJC1lPYsSQLhAoKtJ3JJi4AA46CHYQyzsVt9bnJiU-bCH6KiC1DNv-ljPEolv0Fn-5OIiYwUiX6owd0lFAe4Q",
-      "e": "AQAB",
-      "use": "sig",
-      "kid": "A-JXEQtjwvptI--XEKnzDb2Rm-ZzPJqjXntffsRnJ7E",
-      "qi": "K9oafUml_fab8K5mvRFBCpgkpWih_QrtJyYaksQr5mC6aFEnXTbt5kAEtAelKJ3FDADZjmdeXuPY4GbzxRnN13JLhnQ7QCBfVx8Sy9pix2OgNMmqUfmcumRv_aL187IXvsgsCYb63RrePmSPhpf8gMJt6CecSEE8zDfH7VjLbLA",
-      "dp": "WLWVzTAYRIXv35GNb4V5kaYqjEIXHkSk7gxYvqlNFpo7USaSLIhLYOp3GPNSEqLPz5l1ofE1bIQ8KF35jv47Tygc-d1f4FUKuVjxbbPeQdBRCqsYZxWee0nejbzwWkj7nOeYMGkay1W5sgc55Vg4HRTWGG3UGRvbrBrC_Ko_UrE",
-      "alg": "RS256",
-      "dq": "PGZVLM4sMICaismFR1DmBzbnIw9PjLAlWHmz_NeXfUNRN9Ctc3TSNgw3kF3oE60ASRJ02LetSgrS0RHxL0J08XDejUK-wDEbn3U9P35LvUaQ1pDPh5moLdHrujrytT5V5iadi-L5zraMunvOy1dGqoqEu0EC5LsegFdpb9NMoIE",
-      "n": "ykp0HWxHDiCYNNYD0hu0NK6R_4Xnd9RyeCCBfWOYFJwBjV97vcvOuGDmGHYJCzqOR3JZkFpcXLdNZzLZ9PiW3JhD2_chRahBbM_OdaA9W9MMeRhzqGQKqE705_qr0IcCvGIb9tXpqn5w-N5gkE2DNfbAeE20a0qSw9ETKj5ty7RR8Y6H8l7Np6nfz3jA8eGH_ibzUU8mJWv6--jz42VREhhJPUxWEOqXXjy2Fifhyz62U6vZcdcZg-qFxQAXYJgIoJTRPMrVqgqvPyJyfEGREAFMmiSSU_0YekZ5Ug9T6YdkidppfBsEIlhRD68Up3fmm1mHcfc-8cMGK4piOb8DNQ"
-    }
-  ]
+  "alg": "HS256",
+  "typ": "JWT"
 }
